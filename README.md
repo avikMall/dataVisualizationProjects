@@ -1,2 +1,2 @@
 # dataVisualizationProjects
-These are some simple projects that I have completed. All of these projects are examples of basic computational mathematics and data visualization concepts.
+These are some simple projects that I have completed. All of these projects are examples of basic computational mathematics and data visualization concepts. I reccomend viewing project 3 first.
